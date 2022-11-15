@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "this is a test git server"
+echo "this is a second git server"
