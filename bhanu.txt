@@ -1,3 +1,0 @@
-#!/bin/bash
-a=45 b=90
-echo "$a+$b"
